@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Fetch and Graph CSV</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <script>
+        getData();
+        function getData() {
+            const response =  fetch('data.csv')
+            const data = await response.text();
+            console.log(data);
+        }
+
+    </script>
+</body>
+
+</html>

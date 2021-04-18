@@ -1,4 +1,4 @@
-LotID,ProductType,StartDateTime,SystemUpTime,OperationTime,DownTime,IdleTime,MTBF,MTBA,TotalQuantityIn,TotalQuantityOut,TotalPassed,TotalFailed,TotalYield,SoftJam,HardJam,SprintUPH
+LotID,ProductType,StartDateTime,SystemUpTime,Operation Time,Down Time,Idle Time,MTBF,MTBA,Total Quantity In,Total Quantity Out,Total Passed,Total Failed,Total Yield,Soft Jam,Hard Jam,Sprint UPH
 QPP_Test,RB,31/03/2120 Time:09:24,6,0,0,0,0,0,0,0,0,0,0,0,0,514
 QPP_Test,RB,31/03/2120 Time:13:56,499,129,0,364,129,129,33,12,2,10,16,0,0,514
 QPP_Test,RB,31/03/2120 Time:14:10,1481,444,0,1028,444,444,33,28,4,24,14,0,0,514
